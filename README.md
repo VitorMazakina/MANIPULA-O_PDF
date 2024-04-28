@@ -1,4 +1,4 @@
-# MANIPULA-O_PDF
+# LER_PDF_COM_PYTHON
 from PIL import Image
 import os
 
